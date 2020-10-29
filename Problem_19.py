@@ -1,7 +1,6 @@
 import datetime
 
 year = 1900
-
 sundays = 0
 
 while year != 1999:
